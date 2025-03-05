@@ -17,7 +17,7 @@ A **smart book recommendation system** built using **Townie AI** that helps user
 ## 🏗️ Tech Stack
 
 - 🧠 **Open AI** – AI-powered recommendation engine.
-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo&logoColor=white" alt="Node.js" /> **Node.js** – Backend processing.
+- 🌐 **Node.js** – Backend processing.
 - 🎨 **React/Tailwind CSS** – Frontend for UI (if applicable).
 
 ---
